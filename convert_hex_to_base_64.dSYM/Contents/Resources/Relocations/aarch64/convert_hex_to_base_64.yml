@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nivethaniruthayanathan/CPPProjects/convert_hex_to_base_64'
+relocations:     []
+...
