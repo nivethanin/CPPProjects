@@ -18,9 +18,13 @@ int main()
     string input = "49276d206b696c6c696e6720796f757220627261696e206c696b65206120706f69736f6e6f7573206d757368726f6f6d";
     vector<string> parts = splitUpHexValues(input);
 
-    for (const auto& part : parts) {
-        cout << part << endl;
+    for (const string& part : parts) {
+        
     }
+
+    // for (const string& part : parts) {
+    //     cout << part << endl;
+    // }
 
     return 0;
 }
